@@ -1,0 +1,23 @@
+{
+  "name": "@syedshahwar/lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedshahwar/lib.git"
+  },
+  "author": "syedshahwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedshahwar/lib/issues"
+  },
+  "homepage": "https://github.com/syedshahwar/lib#readme"
+}
