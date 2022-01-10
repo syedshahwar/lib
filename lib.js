@@ -14,7 +14,7 @@ class Lib {
 
   async logId() {
 
-    console.log(`id -> `, this.#logger.id);
+    console.log(`id: `, this.#logger.id);
   }
 
 
